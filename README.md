@@ -10,7 +10,7 @@ Projects
   - Car rental service implemented with Django
     
 - Blackjack : https://github.com/vibimvab/blackjack
-  - A single device, multiplayable blackjack game made with Python module Pygame
+  - A single device, multiplayable blackjack game made with Pygame module
     
 - Minesweeper : https://github.com/vibimvab/Minesweeper
   - Minsweeper game implemented with C++ SFML module
