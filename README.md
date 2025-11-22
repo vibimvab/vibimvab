@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vibimvab
-- 🌱 University of Florida 3학년 수로 후 산업기능요원 준비중에 있습니다.
+- 🌱 University of Florida 3학년 수료 후 산업기능요원 준비중에 있습니다.
 - 📫 Email: vibimvab@gmail.com
 
 Projects
