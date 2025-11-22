@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @vibimvab
-- 🌱 I’m currently learning computer science at University of Florida
+- 🌱 University of Florida 3학년 수로 후 산업기능요원 준비중에 있습니다.
 - 📫 Email: vibimvab@gmail.com
 
 Projects
+- Plan Together : https://github.com/vibimvab/PlanTogether
+  - A group travel-planning web application built with Django and PostgreSQL
+
 - Fortune's Algorithm Visualizer : https://github.com/vibimvab/FortunesAlgorithmVisualizer
   - Visualize how the Fortune's algorithm creates Voronoi diagram work interactively.
     
